@@ -1,0 +1,3 @@
+Hello!
+
+branch b3 is deleted...After merging with master 
